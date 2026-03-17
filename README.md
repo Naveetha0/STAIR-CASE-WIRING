@@ -14,6 +14,7 @@ S.No Name of the apparatus Range / Type Quantity
 6 Wooden Board - 1 No.
 7 Round block - 1 No
 
+
 PROCEDURE
 
 • Place the accessories on the wiring board as per the circuit diagram.
