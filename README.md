@@ -1,4 +1,6 @@
 # STAIR-CASE-WIRING
+### Name: Naveetha P
+### Reg no: 212224080042
 
 AIM
 To control the status of the given lamp by using two – way switches.
